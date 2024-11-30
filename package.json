@@ -1,0 +1,25 @@
+{
+  "name": "papeleria-n-impress",
+  "version": "1.0.0",
+  "description": "Este proyecto es una web para visualizar productos y servicios dirigida al consumidor final.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrnoirhat/papeleria-nimpress.git"
+  },
+  "keywords": [
+    "papeleria",
+    "office",
+    "documents",
+    "services"
+  ],
+  "author": "mrnoirhat",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/mrnoirhat/papeleria-nimpress/issues"
+  },
+  "homepage": "https://github.com/mrnoirhat/papeleria-nimpress#readme"
+}
