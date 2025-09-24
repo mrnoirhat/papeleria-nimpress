@@ -1,6 +1,13 @@
 {
   "hosting": {
+<<<<<<< HEAD
+<<<<<<< HEAD
     "site": "papelerianimpress",
+=======
+>>>>>>> 5302253 (add firebase configuration: use firebase init to configure project)
+=======
+    "site": "papelerianimpress",
+>>>>>>> 8fa6662 (config host page: modified firebase.json and use a commant to configurate host)
     "public": "public",
     "ignore": [
       "firebase.json",

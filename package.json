@@ -21,8 +21,18 @@
   "bugs": {
     "url": "https://github.com/mrnoirhat/papeleria-nimpress/issues"
   },
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 5302253 (add firebase configuration: use firebase init to configure project)
   "homepage": "https://github.com/mrnoirhat/papeleria-nimpress#readme",
   "dependencies": {
     "firebase": "^11.0.2"
   }
+<<<<<<< HEAD
+=======
+  "homepage": "https://github.com/mrnoirhat/papeleria-nimpress#readme"
+>>>>>>> fef39c2 (add file: package.json is a configuration file for nodejs)
+=======
+>>>>>>> 5302253 (add firebase configuration: use firebase init to configure project)
 }
